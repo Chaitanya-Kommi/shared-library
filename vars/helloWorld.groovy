@@ -1,3 +1,3 @@
-def call(){
-sh echo 'This is Chaitanya'
+def call() {
+    echo "This is Chaitanya"
 }
